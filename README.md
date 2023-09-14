@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abiasV
+- 👋 Hi, I’m @AbbasVaziri
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning Redux.js
 - 💞️ I’m looking to collaborate on ...
