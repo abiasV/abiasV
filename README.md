@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer who loves react!
+I am a frontend developer who loves React!
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [MyPortfolio](http://vaziri.fiachehr.ir/)
