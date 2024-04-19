@@ -11,7 +11,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 * ✉️  You can contact me at [vaziri.as@gmail.com](mailto:vaziri.as@gmail.com)
 * 🧠  I'm learning Laravel!
 * 🤝  I'm open to collaborating on exciting projects as a frontend or backend developer.
-* ⚡  I have bachelor's degree in Computer Science and currently taking a web development course at Humber College.
+* ⚡  I have bachelor's degree in Computer engineering and currently taking a web development course at Humber College.
 
 ### Skills
 
