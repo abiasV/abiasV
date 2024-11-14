@@ -1,5 +1,4 @@
-# 💫 About Me: Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts.
-Don't worry if you didn't GIT it.
+# 💫 Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.
 
 🔭I'm based in Canada<br>🖥️ See my portfolio at https://abiasv.github.io/<br>✉️ You can contact me at vaziri.as@gmail.com<br>🧠 I'm learning AWS!<br>🤝 I'm open to collaborating on exciting projects as a frontend or backend developer.<br>⚡ I have bachelor's degree in Computer Engineering and recently graduated in web development at Humber College.
 
