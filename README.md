@@ -1,8 +1,7 @@
 # 💫 About Me:
 I have a keen eye for detail and a commitment to writing clean, maintainable code that not only meets but exceeds client expectations.
  
-🔭Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.<br>🖥️ See my portfolio at https://abiasv.github.io/<br>✉️ You can contact me at vaziri.as@gmail.com<br>🧠 I'm learning AWS!<br>🤝 I'm open to collaborating on exciting projects as a frontend or backend developer.<br>⚡ I have bachelor's degree in Computer Engineering and recently graduated in web development at Humber College.
-
+⚡ Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abbasvaziri/) 
