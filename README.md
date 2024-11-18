@@ -4,13 +4,13 @@
 
 <ul dir="auto">
   <li>
-   Full Stack Web Developer.
+   Full Stack Web Developer.<br>
   </li>
   <li>
     As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at 
     <a href="https://www.lighthouselabs.ca/" rel="nofollow">Lighthouse Labs</a>
     and gaining backend skills from 
-    <a href="https://codethedream.org" rel="nofollow">ode the Dream.</a>
+    <a href="https://codethedream.org" rel="nofollow">ode the Dream.</a><br>
   </li>
   <li>
    🌱 Currently learning Algorithms 
@@ -20,10 +20,10 @@
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465">
     <img src="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="AWS" data-canonical-src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;">
    </a>
-  </li>
+  </li><br>
   <li>
     👯 Looking to apply and expand my knowledge and skills in web development. Excited to be part of an aspiring team that fosters innovation and creativity in delivering cutting-edge web software to achieve business goals and improve customers' daily lives.
-  </li>
+  </li><br>
 </ul>
 
 ⚡ Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.
