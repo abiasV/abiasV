@@ -41,9 +41,15 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 </div>
 
 <br/>
-<div align="center"><br/>
+<div align="center" dir="auto">
+  <p dir="auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  </p>
+</div>
+<!-- <br/>
+<div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</div><br/><br/>
+</div><br/><br/> -->
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
