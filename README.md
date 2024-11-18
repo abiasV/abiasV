@@ -18,7 +18,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 <br/> -->
 
 <div align="center">
- <div>Contact Me:</div><br/>
+ <div>Contact Me:</div>
   <a href="https://www.linkedin.com/in/abbasvaziri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
@@ -29,7 +29,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
+<br/><br/>
 <div align="center">
   <div>Random Dev Quote</div><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
