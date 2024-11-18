@@ -22,6 +22,12 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
   <a href="https://www.linkedin.com/in/abbasvaziri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
+ <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+ <a href="https://github.com/abiasv" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ### ✍️ Random Dev Quote
