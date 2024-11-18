@@ -4,7 +4,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 ⚡ Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.
 
 <div align="center">
- <div>Skills and Experience:</div><br/>
+ <div><b>Skills and Experience:</b></div><br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -53,7 +53,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 <br/> -->
 
 <div align="center">
- <div>Contact Me:</div><br/>
+ <div><b></b>Contact Me:</b></div><br/>
   <a href="https://www.linkedin.com/in/abbasvaziri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
@@ -66,7 +66,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 </div>
 <br/><br/>
 <div align="center">
-  <div>Random Dev Quote</div><br/>
+  <div><b>Random Dev Quote</b></div><br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
 </div>
 
