@@ -1,6 +1,37 @@
-# 💫 About Me:
-I have a keen eye for detail and a commitment to writing clean, maintainable code that not only meets but exceeds client expectations.
- 
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/87485026/267747107-5eb2bc93-0ddf-42c3-89ac-95feca9c6268.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE5MDY3MTksIm5iZiI6MTczMTkwNjQxOSwicGF0aCI6Ii84NzQ4NTAyNi8yNjc3NDcxMDctNWViMmJjOTMtMGRkZi00MmMzLTg5YWMtOTVmZWNhOWM2MjY4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE4VDA1MDY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmYzI0YTYwN2M0Nzc4MjkxZmM3ODU4NzdiZDM5ZWVlODM1NjcyYTU1OGVlNDM4MWU5N2ZkNGQxZTM5YzI3ZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.v3mSvmfprGtfsmgb5wC63oh3fwkFjOs4xz7juTDN6Fw">
+    <img src="https://private-user-images.githubusercontent.com/87485026/267747107-5eb2bc93-0ddf-42c3-89ac-95feca9c6268.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE5MDY3MTksIm5iZiI6MTczMTkwNjQxOSwicGF0aCI6Ii84NzQ4NTAyNi8yNjc3NDcxMDctNWViMmJjOTMtMGRkZi00MmMzLTg5YWMtOTVmZWNhOWM2MjY4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE4VDA1MDY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmYzI0YTYwN2M0Nzc4MjkxZmM3ODU4NzdiZDM5ZWVlODM1NjcyYTU1OGVlNDM4MWU5N2ZkNGQxZTM5YzI3ZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.v3mSvmfprGtfsmgb5wC63oh3fwkFjOs4xz7juTDN6Fw" alt="Modern Desktop Writing Workshop Google Classroom Header" style="max-width: 100%;">
+  </a>
+</p>
+<ul dir="auto">
+  <li>
+    ::marker
+   "Full Stack Web Developer."
+  </li>
+  <li>
+    ::marker
+    "As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at "
+    <a href="https://www.lighthouselabs.ca/" rel="nofollow">Lighthouse Labs</a>
+    " and gaining backend skills from "
+    <a href="https://codethedream.org" rel="nofollow">ode the Dream</a>
+   "."
+  </li>
+  <li>
+    ::marker
+   "🌱 Currently learning Algorithms "
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
+    <img src="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
+   </a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465">
+    <img src="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="AWS" data-canonical-src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;">
+   </a>
+  </li>
+  <li>
+    ::marker
+    "👯 Looking to apply and expand my knowledge and skills in web development. Excited to be part of an aspiring team that fosters innovation and creativity in delivering cutting-edge web software to achieve business goals and improve customers' daily lives."
+  </li>
+</ul>
+
 ⚡ Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.
 
 <div align="center">
