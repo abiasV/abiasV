@@ -8,7 +8,6 @@
    "Full Stack Web Developer."
   </li>
   <li>
-    ::marker
     "As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at "
     <a href="https://www.lighthouselabs.ca/" rel="nofollow">Lighthouse Labs</a>
     " and gaining backend skills from "
@@ -16,7 +15,6 @@
    "."
   </li>
   <li>
-    ::marker
    "🌱 Currently learning Algorithms "
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
     <img src="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
@@ -26,7 +24,6 @@
    </a>
   </li>
   <li>
-    ::marker
     "👯 Looking to apply and expand my knowledge and skills in web development. Excited to be part of an aspiring team that fosters innovation and creativity in delivering cutting-edge web software to achieve business goals and improve customers' daily lives."
   </li>
 </ul>
