@@ -8,10 +8,8 @@
   </li><br>
   
   <li>
-    As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at 
-    <a href="https://www.lighthouselabs.ca/" rel="nofollow">Lighthouse Labs</a>
-    and gaining backend skills from 
-    <a href="https://codethedream.org" rel="nofollow">ode the Dream.</a>
+    As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Postgraduate Certificate in Web Development at 
+    <a href="https://www.humber.ca/" rel="nofollow">Humber College</a> and gaining backend skills from <a href="https://codethedream.org" rel="nofollow">ode the Dream.</a>
   </li><br>
   
   <li>
