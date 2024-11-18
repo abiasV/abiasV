@@ -1,6 +1,6 @@
 <p dir="auto">
   
-![Screenshot 2024-11-18 020303](https://github.com/user-attachments/assets/c1d84fb7-6bf9-47fa-b6aa-a2614e392bcf)
+![Screenshot 2024-11-18 023207](https://github.com/user-attachments/assets/a843143a-b6d4-4159-a16b-fe1a1137e99f)
 
 <ul dir="auto">
   <li>
