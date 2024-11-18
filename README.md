@@ -58,8 +58,6 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 </div>
 <br/> -->
 
-<!--   <a id="user-content-contact-me" class="anchor" aria-lable="Permalink: Contact Me:" href="https://www.linkedin.com/in/abbasvaziri/" target="_blank"> -->
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
  <div class="markdown-heading" dir="auto">
   <h3 align="center" tabindex="-1" class="heading-element" dir="auto">Contact Me:</h3>
   <a id="user-content-contact-me" class="anchor" aria-lable="Permalink: Contact Me:" href="#contact-me">
@@ -70,7 +68,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
  </div>
  <div align="center" dir="auto">
    <a href="mailto:vaziri.as@gmail.com">
-     <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023…f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+     <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
    </a>
    <a href="https://github.com/AbiasV">
      <img src="https://camo.githubusercontent.com/18441e373ca375be0a0848b4aa487683bf0718eef9617d5b7fdf48b6b38fbe52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d776869746520616c743d676974687562" data-canonical-src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" style="max-width: 100%;">
