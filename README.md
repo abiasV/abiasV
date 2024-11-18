@@ -4,7 +4,7 @@
 
 <ul dir="auto">
   <li>
-   Full Stack Web Developer.
+   Full-Stack Developer specializing in MERN stack with a passion for building scalable web applications and enhancing user experiences.
   </li><br>
   <li>
     As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at 
@@ -12,15 +12,6 @@
     and gaining backend skills from 
     <a href="https://codethedream.org" rel="nofollow">ode the Dream.</a><br>
   </li>
-<!--   <li>
-   🌱 Currently learning Algorithms 
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
-    <img src="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
-   </a>
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465">
-    <img src="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="AWS" data-canonical-src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;">
-   </a>
-  </li><br> -->
  <li style="display: flex; align-items: center; justify-content: center;">
    🌱 Currently learning Algorithms
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
@@ -58,7 +49,6 @@
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="Apollo-GraphQL" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine" />
@@ -83,18 +73,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
   </p>
 </div>
-<!-- <br/>
-<div align="center" dir="auto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</div><br/><br/> -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abiasv&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-<br/> -->
-
  <div class="markdown-heading" dir="auto">
   <h3 align="center" tabindex="-1" class="heading-element" dir="auto">Contact Me:</h3>
   <a id="user-content-contact-me" class="anchor" aria-lable="Permalink: Contact Me:" href="#contact-me">
@@ -114,16 +92,6 @@
      <img src="https://camo.githubusercontent.com/31e1184a75575a4b487d57a5b69191634665a97dc927898589d5a1edb3cfa941/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746520616c743d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" style="max-width: 100%;">
    </a>
  </div>
-<!--  <a href="https://github.com/abiasv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" />
-  </a> -->
-
-<!-- <br/><br/>
-<div align="center">
-  <div><b>Random Dev Quote</b></div><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
-</div>
- -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abiasv&icon=0&color=0)](https://visitcount.itsvg.in)
