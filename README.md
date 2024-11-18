@@ -58,24 +58,37 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 </div>
 <br/> -->
 
-<div align="center">
- <div><b></b>Contact Me:</b></div><br/>
-  <a href="https://www.linkedin.com/in/abbasvaziri/" target="_blank">
+<!--   <a id="user-content-contact-me" class="anchor" aria-lable="Permalink: Contact Me:" href="https://www.linkedin.com/in/abbasvaziri/" target="_blank"> -->
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+ <div class="markdown-heading" dir="auto">
+  <h3 align="center" tabindex="-1" class="heading-element" dir="auto">Contact Me:</h3>
+  <a id="user-content-contact-me" class="anchor" aria-lable="Permalink: Contact Me:" href="#contact-me">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
   </a>
- <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%14836.svg?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
- <a href="https://github.com/abiasv" target="_blank">
+ </div>
+ <div align="center" dir="auto">
+   <a href="mailto:vaziri.as@gmail.com">
+     <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023…f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+   </a>
+   <a href="https://github.com/AbiasV">
+     <img src="https://camo.githubusercontent.com/18441e373ca375be0a0848b4aa487683bf0718eef9617d5b7fdf48b6b38fbe52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d776869746520616c743d676974687562" data-canonical-src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" style="max-width: 100%;">
+   </a>
+  <a href="https://www.linkedin.com/in/abbasvaziri/" rel="nofollow">
+     <img src="https://camo.githubusercontent.com/31e1184a75575a4b487d57a5b69191634665a97dc927898589d5a1edb3cfa941/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746520616c743d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" style="max-width: 100%;">
+   </a>
+ </div>
+<!--  <a href="https://github.com/abiasv" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-<br/><br/>
+  </a> -->
+
+<!-- <br/><br/>
 <div align="center">
   <div><b>Random Dev Quote</b></div><br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
 </div>
-
+ -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abiasv&icon=0&color=0)](https://visitcount.itsvg.in)
