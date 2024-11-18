@@ -6,12 +6,18 @@
   <li>
    Full-Stack Developer specializing in MERN stack with a passion for building scalable web applications and enhancing user experiences.
   </li><br>
+  
   <li>
     As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at 
     <a href="https://www.lighthouselabs.ca/" rel="nofollow">Lighthouse Labs</a>
     and gaining backend skills from 
-    <a href="https://codethedream.org" rel="nofollow">ode the Dream.</a><br>
-  </li>
+    <a href="https://codethedream.org" rel="nofollow">ode the Dream.</a>
+  </li><br>
+  
+  <li>
+    ⚡ Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.
+  </li><br>
+  
  <li style="display: flex; align-items: center; justify-content: center;">
    🌱 Currently learning Algorithms
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
@@ -20,16 +26,14 @@
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465">
     <img src="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="AWS" style="max-width: 100%; height: 24px; margin-left: 8px; vertical-align: middle;">
    </a>
-</li>
-
-<br>
+</li><br>
 
   <li>
     👯 Looking to apply and expand my knowledge and skills in web development. Excited to be part of an aspiring team that fosters innovation and creativity in delivering cutting-edge web software to achieve business goals and improve customers' daily lives.
   </li><br>
 </ul>
 
-⚡ Whenever I see a door with PUSH sign, I PULL it first to avoid any conflicts. Don't worry if you didn't GIT it.
+
 
 <div align="center">
  <div><b>Skills and Experience:</b></div><br/>
