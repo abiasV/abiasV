@@ -9,15 +9,15 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abiasv&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
-<br/>
+<br/> -->
 
-## <div align="center">Contact Me</div>
+<h2 align="center">Contact Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abbasvaziri/" target="_blank">
