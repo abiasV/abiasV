@@ -30,8 +30,11 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
   </a>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <div>Random Dev Quote</div><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abiasv&icon=0&color=0)](https://visitcount.itsvg.in)
