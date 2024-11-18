@@ -17,10 +17,11 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 </div>
 <br/>
 
-## Contact Me:
+## <div align="center">Contact Me</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abbasvaziri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </div>
 
