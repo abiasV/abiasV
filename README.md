@@ -12,8 +12,13 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </div>
-![](https://github-readme-stats.vercel.app/api?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abiasv&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abiasv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abiasv&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+<br/>
 
 
 ### ✍️ Random Dev Quote
