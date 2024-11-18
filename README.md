@@ -18,7 +18,7 @@ I have a keen eye for detail and a commitment to writing clean, maintainable cod
 <br/> -->
 
 <div align="center">
- <span>Contact Me<</span>
+ <div>Contact Me</div>
   <a href="https://www.linkedin.com/in/abbasvaziri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
