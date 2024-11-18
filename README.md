@@ -4,8 +4,8 @@
 
 <ul dir="auto">
   <li>
-   Full Stack Web Developer.<br>
-  </li>
+   Full Stack Web Developer.
+  </li><br>
   <li>
     As a dedicated lifelong learner with a passion for acquiring new technical skills, demonstrated through completing a Fullstack Web Development Diploma at 
     <a href="https://www.lighthouselabs.ca/" rel="nofollow">Lighthouse Labs</a>
