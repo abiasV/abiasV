@@ -1,30 +1,63 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Aras Vaziri — Full-Stack Web Developer</title>
-  <desc id="desc">Professional developer profile banner</desc>
+  <desc id="desc">Professional developer profile banner with a laptop and desk plant</desc>
+
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="58%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#0b1f3a"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#58a6ff"/>
       <stop offset="100%" stop-color="#7c3aed"/>
     </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1424"/>
+      <stop offset="100%" stop-color="#12325c"/>
+    </linearGradient>
   </defs>
 
   <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
-  <circle cx="1080" cy="62" r="150" fill="none" stroke="#58a6ff" stroke-opacity=".22" stroke-width="2"/>
-  <circle cx="1105" cy="70" r="105" fill="none" stroke="#7c3aed" stroke-opacity=".18" stroke-width="2"/>
-  <path d="M800 242 C900 165 1010 185 1190 104" fill="none" stroke="url(#accent)" stroke-opacity=".45" stroke-width="2"/>
 
-  <text x="74" y="86" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">Hi, I'm</text>
-  <text x="72" y="154" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Aras </text>
-  <text x="222" y="154" fill="#58a6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Vaziri</text>
-  <text x="74" y="205" fill="#c9d1d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30">Full-Stack Web Developer</text>
-  <text x="74" y="257" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Build  •  Solve  •  Improve  •  Repeat</text>
+  <!-- subtle background geometry -->
+  <circle cx="1080" cy="46" r="150" fill="none" stroke="#58a6ff" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1110" cy="58" r="108" fill="none" stroke="#7c3aed" stroke-opacity=".16" stroke-width="2"/>
+  <path d="M786 250 C910 178 1010 186 1190 110" fill="none" stroke="url(#accent)" stroke-opacity=".34" stroke-width="2"/>
 
-  <rect x="870" y="185" width="250" height="72" rx="16" fill="#161b22" stroke="#30363d"/>
-  <text x="898" y="215" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Ideas into</text>
-  <text x="898" y="241" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">impactful web experiences.</text>
+  <!-- text -->
+  <text x="74" y="80" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Hi, I'm</text>
+  <text x="72" y="148" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Aras</text>
+  <text x="210" y="148" fill="#58a6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Vaziri</text>
+  <text x="74" y="198" fill="#c9d1d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30">Full-Stack Web Developer</text>
+  <text x="74" y="250" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Build  •  Solve  •  Improve  •  Repeat</text>
+
+  <!-- desk -->
+  <rect x="770" y="256" width="360" height="8" rx="4" fill="#334155"/>
+  <rect x="820" y="264" width="8" height="30" rx="4" fill="#1f2937"/>
+  <rect x="1070" y="264" width="8" height="30" rx="4" fill="#1f2937"/>
+
+  <!-- laptop -->
+  <rect x="862" y="156" width="170" height="102" rx="10" fill="#0f172a" stroke="#3b82f6" stroke-opacity=".45"/>
+  <rect x="874" y="168" width="146" height="76" rx="5" fill="url(#screen)"/>
+  <path d="M838 258 H1056 L1038 276 H856 Z" fill="#64748b"/>
+  <rect x="932" y="264" width="30" height="3" rx="1.5" fill="#94a3b8"/>
+  <text x="894" y="198" fill="#93c5fd" font-family="Consolas,monospace" font-size="13">&lt;build /&gt;</text>
+  <text x="894" y="219" fill="#cbd5e1" font-family="Consolas,monospace" font-size="12">solve → ship → improve</text>
+
+  <!-- plant -->
+  <path d="M1080 213 C1060 178 1068 147 1095 128 C1096 161 1090 187 1080 213 Z" fill="#22c55e" fill-opacity=".72"/>
+  <path d="M1092 214 C1090 174 1110 146 1138 137 C1128 170 1113 194 1092 214 Z" fill="#16a34a" fill-opacity=".72"/>
+  <path d="M1078 214 C1052 196 1039 173 1044 148 C1068 164 1080 186 1078 214 Z" fill="#4ade80" fill-opacity=".68"/>
+  <rect x="1060" y="210" width="62" height="46" rx="8" fill="#334155"/>
+  <rect x="1066" y="216" width="50" height="34" rx="5" fill="#1e293b"/>
+
+  <!-- coffee cup -->
+  <rect x="800" y="220" width="34" height="28" rx="6" fill="#475569"/>
+  <path d="M834 226 C852 224 852 244 834 242" fill="none" stroke="#64748b" stroke-width="5"/>
+
+  <!-- tagline card -->
+  <rect x="812" y="92" width="292" height="50" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="832" y="113" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Ideas into</text>
+  <text x="832" y="134" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">impactful web experiences.</text>
 </svg>
