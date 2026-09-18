@@ -1,63 +1,185 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Aras Vaziri — Full-Stack Web Developer</title>
-  <desc id="desc">Professional developer profile banner with a laptop and desk plant</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Abbas Vaziri — Full Stack Web Developer</title>
+  <desc id="desc">Dark futuristic developer banner with code panels and glowing blue accents</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="58%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#0b1f3a"/>
+      <stop offset="0%" stop-color="#06111f"/>
+      <stop offset="55%" stop-color="#08182b"/>
+      <stop offset="100%" stop-color="#03101f"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
+
+    <linearGradient id="nameBlue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#55c2ff"/>
+      <stop offset="100%" stop-color="#2687ff"/>
     </linearGradient>
-    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a1424"/>
-      <stop offset="100%" stop-color="#12325c"/>
+
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c2442" stop-opacity=".96"/>
+      <stop offset="100%" stop-color="#07182c" stop-opacity=".96"/>
     </linearGradient>
+
+    <linearGradient id="mountain" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#07101e"/>
+      <stop offset="100%" stop-color="#0b1c34"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+
+    <clipPath id="round">
+      <rect width="1200" height="400" rx="24"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
 
-  <!-- subtle background geometry -->
-  <circle cx="1080" cy="46" r="150" fill="none" stroke="#58a6ff" stroke-opacity=".18" stroke-width="2"/>
-  <circle cx="1110" cy="58" r="108" fill="none" stroke="#7c3aed" stroke-opacity=".16" stroke-width="2"/>
-  <path d="M786 250 C910 178 1010 186 1190 110" fill="none" stroke="url(#accent)" stroke-opacity=".34" stroke-width="2"/>
+    <!-- subtle stars -->
+    <g fill="#5bb8ff" opacity=".75">
+      <circle cx="526" cy="62" r="1.1"/>
+      <circle cx="646" cy="31" r="1"/>
+      <circle cx="728" cy="75" r="1.2"/>
+      <circle cx="865" cy="33" r="1"/>
+      <circle cx="1002" cy="72" r="1.1"/>
+      <circle cx="1112" cy="46" r="1"/>
+      <circle cx="941" cy="129" r=".9"/>
+      <circle cx="574" cy="157" r=".9"/>
+    </g>
 
-  <!-- text -->
-  <text x="74" y="80" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Hi, I'm</text>
-  <text x="72" y="148" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Aras</text>
-  <text x="210" y="148" fill="#58a6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Vaziri</text>
-  <text x="74" y="198" fill="#c9d1d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30">Full-Stack Web Developer</text>
-  <text x="74" y="250" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Build  •  Solve  •  Improve  •  Repeat</text>
+    <!-- futuristic horizon glow -->
+    <ellipse cx="940" cy="310" rx="260" ry="35" fill="#0077ff" opacity=".11" filter="url(#softGlow)"/>
+    <circle cx="1028" cy="266" r="56" fill="none" stroke="#2aa8ff" stroke-width="2" opacity=".75" filter="url(#glow)"/>
+    <circle cx="1028" cy="266" r="54" fill="#0a4f91" opacity=".10"/>
 
-  <!-- desk -->
-  <rect x="770" y="256" width="360" height="8" rx="4" fill="#334155"/>
-  <rect x="820" y="264" width="8" height="30" rx="4" fill="#1f2937"/>
-  <rect x="1070" y="264" width="8" height="30" rx="4" fill="#1f2937"/>
+    <!-- sweeping curves -->
+    <path d="M415 330 C545 330 541 160 667 156 C782 152 847 293 1190 120"
+      fill="none" stroke="#248eff" stroke-width="1.8" opacity=".88"/>
+    <path d="M478 362 C651 340 703 253 805 235 C928 214 1001 286 1190 224"
+      fill="none" stroke="#1a65bb" stroke-width="1.1" opacity=".55"/>
+    <path d="M650 18 C718 58 768 41 818 74"
+      fill="none" stroke="#1e6bc8" stroke-width="1" opacity=".45"/>
+    <circle cx="544" cy="234" r="4" fill="#50c8ff" filter="url(#glow)"/>
+    <circle cx="1090" cy="169" r="4" fill="#4dc7ff" filter="url(#glow)"/>
 
-  <!-- laptop -->
-  <rect x="862" y="156" width="170" height="102" rx="10" fill="#0f172a" stroke="#3b82f6" stroke-opacity=".45"/>
-  <rect x="874" y="168" width="146" height="76" rx="5" fill="url(#screen)"/>
-  <path d="M838 258 H1056 L1038 276 H856 Z" fill="#64748b"/>
-  <rect x="932" y="264" width="30" height="3" rx="1.5" fill="#94a3b8"/>
-  <text x="894" y="198" fill="#93c5fd" font-family="Consolas,monospace" font-size="13">&lt;build /&gt;</text>
-  <text x="894" y="219" fill="#cbd5e1" font-family="Consolas,monospace" font-size="12">solve → ship → improve</text>
+    <!-- mountain layers -->
+    <path d="M405 318 L480 275 L536 310 L590 277 L651 323 L729 287 L798 334 L862 302 L927 335 L1000 285 L1078 324 L1142 292 L1200 315 L1200 400 L405 400 Z"
+      fill="url(#mountain)" opacity=".86"/>
+    <path d="M320 350 L432 313 L509 345 L615 301 L718 355 L806 328 L900 360 L1006 320 L1096 356 L1200 328 L1200 400 L320 400 Z"
+      fill="#04101d" opacity=".92"/>
+    <path d="M560 366 C742 350 923 371 1195 344" fill="none" stroke="#0d4a84" stroke-width="2" opacity=".45"/>
+    <path d="M636 378 C803 364 965 381 1200 359" fill="none" stroke="#0a355f" stroke-width="1.4" opacity=".6"/>
 
-  <!-- plant -->
-  <path d="M1080 213 C1060 178 1068 147 1095 128 C1096 161 1090 187 1080 213 Z" fill="#22c55e" fill-opacity=".72"/>
-  <path d="M1092 214 C1090 174 1110 146 1138 137 C1128 170 1113 194 1092 214 Z" fill="#16a34a" fill-opacity=".72"/>
-  <path d="M1078 214 C1052 196 1039 173 1044 148 C1068 164 1080 186 1078 214 Z" fill="#4ade80" fill-opacity=".68"/>
-  <rect x="1060" y="210" width="62" height="46" rx="8" fill="#334155"/>
-  <rect x="1066" y="216" width="50" height="34" rx="5" fill="#1e293b"/>
+    <!-- LEFT: prompt -->
+    <g font-family="Consolas, 'Courier New', monospace">
+      <text x="52" y="78" fill="#2f9bff" font-size="24" font-weight="700">&gt;_</text>
+      <text x="92" y="78" fill="#9ab8db" font-size="22">Hello, I’m</text>
+    </g>
 
-  <!-- coffee cup -->
-  <rect x="800" y="220" width="34" height="28" rx="6" fill="#475569"/>
-  <path d="M834 226 C852 224 852 244 834 242" fill="none" stroke="#64748b" stroke-width="5"/>
+    <!-- LEFT: name -->
+    <text x="52" y="150" fill="#f7fbff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800">Abbas</text>
+    <text x="230" y="150" fill="url(#nameBlue)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800">Vaziri</text>
 
-  <!-- tagline card -->
-  <rect x="812" y="92" width="292" height="50" rx="12" fill="#161b22" stroke="#30363d"/>
-  <text x="832" y="113" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Ideas into</text>
-  <text x="832" y="134" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">impactful web experiences.</text>
+    <text x="54" y="198" fill="#9bb9db" font-family="Consolas, 'Courier New', monospace" font-size="28" letter-spacing="2">Full Stack Web Developer</text>
+
+    <!-- divider + tagline -->
+    <line x1="54" y1="239" x2="111" y2="239" stroke="#587494" stroke-width="1.2"/>
+    <text x="125" y="246" fill="#8daed1" font-family="Consolas, 'Courier New', monospace" font-size="21" letter-spacing="2">Build  •  Solve  •  Improve</text>
+    <line x1="365" y1="239" x2="421" y2="239" stroke="#587494" stroke-width="1.2"/>
+
+    <!-- simple tech icons -->
+    <g stroke="#7298bf" fill="none" stroke-width="2.2" opacity=".95">
+      <!-- github-ish -->
+      <circle cx="70" cy="303" r="14"/>
+      <path d="M61 308 C61 298 79 298 79 308"/>
+      <path d="M64 293 L61 288 M76 293 L79 288"/>
+      <!-- VS code-ish -->
+      <path d="M111 295 L123 286 L132 291 L132 315 L123 320 L111 311 L118 303 Z"/>
+      <!-- globe -->
+      <circle cx="173" cy="303" r="14"/>
+      <ellipse cx="173" cy="303" rx="7" ry="14"/>
+      <line x1="159" y1="303" x2="187" y2="303"/>
+      <!-- database -->
+      <ellipse cx="221" cy="293" rx="13" ry="5"/>
+      <path d="M208 293 V313 C208 320 234 320 234 313 V293"/>
+      <path d="M208 303 C208 309 234 309 234 303"/>
+      <path d="M208 313 C208 319 234 319 234 313"/>
+      <!-- cloud -->
+      <path d="M266 313 H286 C294 313 297 302 290 298 C290 290 279 287 274 294 C267 292 260 298 262 305 C257 307 259 313 266 313 Z"/>
+    </g>
+
+    <line x1="318" y1="284" x2="318" y2="322" stroke="#42688e" stroke-width="1"/>
+    <text x="340" y="302" fill="#6f96bd" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2">TURNING IDEAS</text>
+    <text x="340" y="321" fill="#6f96bd" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2">INTO REAL SOLUTIONS</text>
+
+    <!-- RIGHT: rear info panel -->
+    <g transform="translate(612 92) skewY(2)">
+      <rect width="150" height="126" rx="12" fill="#09213b" fill-opacity=".58" stroke="#2a83da" stroke-opacity=".72"/>
+      <circle cx="33" cy="42" r="17" fill="none" stroke="#2d8be1" stroke-width="2"/>
+      <path d="M16 42 H50 M33 25 C24 36 24 48 33 59 M33 25 C42 36 42 48 33 59" fill="none" stroke="#2d8be1" stroke-width="1.6"/>
+      <rect x="63" y="31" width="51" height="7" rx="3.5" fill="#0e4d88" opacity=".6"/>
+      <rect x="63" y="50" width="38" height="6" rx="3" fill="#0e4d88" opacity=".45"/>
+      <rect x="22" y="81" width="95" height="7" rx="3.5" fill="#0e4d88" opacity=".42"/>
+      <rect x="22" y="99" width="78" height="7" rx="3.5" fill="#0e4d88" opacity=".30"/>
+    </g>
+
+    <!-- RIGHT: lower media panel -->
+    <g transform="translate(585 208) skewY(1)">
+      <rect width="170" height="90" rx="12" fill="#09213b" fill-opacity=".74" stroke="#2a83da" stroke-opacity=".82"/>
+      <rect x="20" y="24" width="46" height="42" rx="5" fill="#0e4b88"/>
+      <circle cx="51" cy="36" r="5" fill="#5bc6ff"/>
+      <path d="M25 62 L38 48 L47 56 L56 45 L65 62 Z" fill="#3c9fff"/>
+      <rect x="79" y="31" width="54" height="7" rx="3.5" fill="#0e4d88" opacity=".55"/>
+      <rect x="79" y="49" width="39" height="6" rx="3" fill="#0e4d88" opacity=".42"/>
+    </g>
+
+    <!-- RIGHT: main code window -->
+    <g>
+      <rect x="690" y="63" width="244" height="228" rx="15" fill="url(#panel)" stroke="#42a5ff" stroke-width="1.4" filter="url(#glow)"/>
+      <line x1="690" y1="99" x2="934" y2="99" stroke="#1b5d99" stroke-width="1"/>
+      <circle cx="710" cy="82" r="4" fill="#ff5f57"/>
+      <circle cx="724" cy="82" r="4" fill="#febc2e"/>
+      <circle cx="738" cy="82" r="4" fill="#28c840"/>
+
+      <g font-family="Consolas, 'Courier New', monospace" font-size="15">
+        <text x="711" y="130" fill="#d97cff">const</text>
+        <text x="754" y="130" fill="#75c9ff">ideas</text>
+        <text x="802" y="130" fill="#d9e7f5">= [</text>
+
+        <text x="727" y="156" fill="#5dff9c">"build",</text>
+        <text x="727" y="181" fill="#5dff9c">"solve",</text>
+        <text x="727" y="206" fill="#5dff9c">"improve"</text>
+        <text x="711" y="231" fill="#d9e7f5">];</text>
+
+        <text x="711" y="258" fill="#6da9dc">// into meaningful</text>
+        <text x="711" y="279" fill="#82b8e7">web experiences</text>
+      </g>
+
+      <rect x="711" y="296" width="160" height="2" rx="1" fill="#123c68" opacity=".55"/>
+      <rect x="711" y="306" width="117" height="2" rx="1" fill="#123c68" opacity=".35"/>
+    </g>
+
+    <!-- RIGHT: code symbol panel -->
+    <g transform="translate(959 114)">
+      <rect width="112" height="125" rx="12" fill="#0a213b" fill-opacity=".74" stroke="#2488e0" stroke-opacity=".84"/>
+      <text x="24" y="67" fill="#4ca7ff" font-family="Consolas, 'Courier New', monospace" font-size="40" font-weight="700">&lt;/&gt;</text>
+      <rect x="20" y="87" width="65" height="7" rx="3.5" fill="#0e4d88" opacity=".38"/>
+      <rect x="20" y="103" width="45" height="6" rx="3" fill="#0e4d88" opacity=".28"/>
+    </g>
+
+    <!-- top-right motto -->
+    <text x="1110" y="44" fill="#83a8cc" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3">BETTER</text>
+    <text x="1110" y="64" fill="#83a8cc" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3">WEB</text>
+    <text x="1110" y="84" fill="#83a8cc" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3">TOGETHER</text>
+    <line x1="1110" y1="97" x2="1145" y2="97" stroke="#50789f" stroke-width="1"/>
+  </g>
 </svg>

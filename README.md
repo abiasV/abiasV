@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Aras Vaziri — Full-Stack Web Developer" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Abbas Vaziri — Full Stack Web Developer" width="100%" />
 
 <br/>
 
