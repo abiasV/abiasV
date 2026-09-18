@@ -16,7 +16,8 @@ I'm a full-stack web developer based in Toronto, focused on building practical, 
 
 I enjoy turning complex product requirements into clear user experiences, building reliable APIs, and improving existing applications through thoughtful engineering and iteration.
 
-- 🎓 Postgraduate Certificate in Web Development — Humber College
+- 🎓 Postgraduate Certificate in Web Development — Humber College, Toronto
+- 🎓 Bachelor's Degree in Computer Software Engineering — Azad University, Iran · WES-evaluated for Canadian equivalency
 - 💼 Experience across React, WordPress, Node.js, PHP/Laravel, and full-stack web development
 - 🧠 Currently deepening my skills in algorithms, AI-assisted products, and production-ready application architecture
 - 🚀 Current focus: building **Lighthouse Agent**, an AI-powered growth workflow for Etsy sellers
@@ -137,14 +138,6 @@ The project is helping me deepen my experience with:
 - safe execution and approval flows
 - evidence-based decision systems
 - deployment and real-user validation
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiasV&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ## Let's Connect
 
