@@ -86,8 +86,7 @@
     </g>
 
     <!-- LEFT: name -->
-    <text x="52" y="150" fill="#f7fbff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800">Abbas</text>
-    <text x="230" y="150" fill="url(#nameBlue)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800">Vaziri</text>
+    <text x="52" y="150" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800"><tspan fill="#f7fbff">Abbas</tspan><tspan dx="18" fill="url(#nameBlue)">Vaziri</tspan></text>
 
     <text x="54" y="198" fill="#9bb9db" font-family="Consolas, 'Courier New', monospace" font-size="28" letter-spacing="2">Full Stack Web Developer</text>
 
