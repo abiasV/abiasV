@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Aras Vaziri — Full-Stack Web Developer</title>
+  <desc id="desc">Professional developer profile banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1f3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <circle cx="1080" cy="62" r="150" fill="none" stroke="#58a6ff" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="1105" cy="70" r="105" fill="none" stroke="#7c3aed" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M800 242 C900 165 1010 185 1190 104" fill="none" stroke="url(#accent)" stroke-opacity=".45" stroke-width="2"/>
+
+  <text x="74" y="86" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">Hi, I'm</text>
+  <text x="72" y="154" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Aras </text>
+  <text x="222" y="154" fill="#58a6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Vaziri</text>
+  <text x="74" y="205" fill="#c9d1d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30">Full-Stack Web Developer</text>
+  <text x="74" y="257" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Build  •  Solve  •  Improve  •  Repeat</text>
+
+  <rect x="870" y="185" width="250" height="72" rx="16" fill="#161b22" stroke="#30363d"/>
+  <text x="898" y="215" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Ideas into</text>
+  <text x="898" y="241" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">impactful web experiences.</text>
+</svg>
